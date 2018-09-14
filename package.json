@@ -81,7 +81,10 @@
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-uglify": "^3.0.0",
     "standard": "^10.0.2",
-    "stylus": "^0.54.5"
+    "stylus": "^0.54.5",
+    "react-beautiful-dnd": "^9.0.2",
+    "react-dnd": "^5.0.0",
+    "react-dnd-html5-backend": "^5.0.1"
   },
   "babel": {
     "env": {
